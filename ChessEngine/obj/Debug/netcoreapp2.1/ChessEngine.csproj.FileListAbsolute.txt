@@ -1,0 +1,11 @@
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\bin\Debug\netcoreapp2.1\ChessEngine.deps.json
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\bin\Debug\netcoreapp2.1\ChessEngine.runtimeconfig.json
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\bin\Debug\netcoreapp2.1\ChessEngine.runtimeconfig.dev.json
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\bin\Debug\netcoreapp2.1\ChessEngine.dll
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\bin\Debug\netcoreapp2.1\ChessEngine.pdb
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\obj\Debug\netcoreapp2.1\ChessEngine.csprojAssemblyReference.cache
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\obj\Debug\netcoreapp2.1\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\obj\Debug\netcoreapp2.1\ChessEngine.AssemblyInfoInputs.cache
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\obj\Debug\netcoreapp2.1\ChessEngine.AssemblyInfo.cs
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\obj\Debug\netcoreapp2.1\ChessEngine.dll
+C:\Users\Nikhil\source\repos\ChessEngine\ChessEngine\obj\Debug\netcoreapp2.1\ChessEngine.pdb
